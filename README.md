@@ -13,5 +13,5 @@ $ npm run dev
 ```
 
 * ブラウザで下記にアクセス
-  * http://http://localhost:8080/
+  * http://localhost:8080/
 
